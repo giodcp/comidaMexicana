@@ -315,7 +315,206 @@
         </div>
     </div>
 
-   
+   <!-- Modales de Preparación -->
+    
+    <!-- Modal Tacos al Pastor -->
+    <div class="modal fade" id="modalTacos" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Preparación: Tacos al Pastor</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <h6 style="color: var(--color-rojo); font-weight: 700;">Ingredientes:</h6>
+                    <ul>
+                        <li>800g de carne de cerdo</li>
+                        <li>4 chiles guajillo</li>
+                        <li>2 chiles ancho</li>
+                        <li>Piña fresca</li>
+                        <li>Tortillas de maíz</li>
+                        <li>Cebolla y cilantro</li>
+                    </ul>
+                    <h6 style="color: var(--color-verde); font-weight: 700; margin-top: 15px;">Pasos:</h6>
+                    <ol>
+                        <li>Hidrata los chiles en agua caliente durante 10 minutos</li>
+                        <li>Licúa los chiles con especias y vinagre</li>
+                        <li>Marina la carne en la salsa por 2 horas</li>
+                        <li>Asa la carne en una plancha o comal</li>
+                        <li>Coloca la piña encima y deja caramelizar</li>
+                        <li>Sirve en tortillas calientes con cebolla y cilantro</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Chiles Rellenos -->
+    <div class="modal fade" id="modalChiles" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Preparación: Chiles Rellenos</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <h6 style="color: var(--color-rojo); font-weight: 700;">Ingredientes:</h6>
+                    <ul>
+                        <li>6 chiles poblanos</li>
+                        <li>300g de queso Oaxaca</li>
+                        <li>6 tomates rojos</li>
+                        <li>3 huevos</li>
+                        <li>Aceite vegetal</li>
+                        <li>Sal y pimienta</li>
+                    </ul>
+                    <h6 style="color: var(--color-verde); font-weight: 700; margin-top: 15px;">Pasos:</h6>
+                    <ol>
+                        <li>Asa los chiles en fuego directo hasta que la piel se queme</li>
+                        <li>Coloca en una bolsa plástica para que se suden</li>
+                        <li>Pela los chiles y haz una pequeña abertura</li>
+                        <li>Rellena con queso</li>
+                        <li>Bate claras de huevo a punto de nieve</li>
+                        <li>Capea los chiles y fríe en aceite caliente</li>
+                        <li>Vierte salsa roja encima y sirve caliente</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Mole Poblano -->
+    <div class="modal fade" id="modalMole" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Preparación: Mole Poblano</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <h6 style="color: var(--color-rojo); font-weight: 700;">Ingredientes:</h6>
+                    <ul>
+                        <li>Diversos chiles secos (guajillo, ancho, pasilla)</li>
+                        <li>100g de chocolate amargo</li>
+                        <li>Almendras y cacahuates</li>
+                        <li>Especias varias (clavo, canela, anís)</li>
+                        <li>2 kg de pollo</li>
+                        <li>Caldo de pollo</li>
+                    </ul>
+                    <h6 style="color: var(--color-verde); font-weight: 700; margin-top: 15px;">Pasos:</h6>
+                    <ol>
+                        <li>Tuesta y muele los chiles deshidratados</li>
+                        <li>Prepara un sofrito con cebolla, ajo y tomate</li>
+                        <li>Añade los chiles molidos y las especias</li>
+                        <li>Agrega el chocolate desmenuzado</li>
+                        <li>Cocina el pollo en caldo de pollo</li>
+                        <li>Vierte la salsa sobre el pollo</li>
+                        <li>Deja cocer 30 minutos más a fuego lento</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Enchiladas Verdes -->
+    <div class="modal fade" id="modalEnchiladas" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Preparación: Enchiladas Verdes</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <h6 style="color: var(--color-rojo); font-weight: 700;">Ingredientes:</h6>
+                    <ul>
+                        <li>12 tortillas de maíz</li>
+                        <li>500g de pechuga de pollo cocida</li>
+                        <li>500g de tomatillos verdes</li>
+                        <li>3 chiles serranos</li>
+                        <li>200ml de crema</li>
+                        <li>200g de queso fresco</li>
+                    </ul>
+                    <h6 style="color: var(--color-verde); font-weight: 700; margin-top: 15px;">Pasos:</h6>
+                    <ol>
+                        <li>Cuece el pollo y deshébralo</li>
+                        <li>Licúa tomatillos, chiles y cebolla</li>
+                        <li>Calienta la salsa verde en una olla</li>
+                        <li>Calienta las tortillas</li>
+                        <li>Sumerge cada tortilla en la salsa</li>
+                        <li>Rellena con pollo deshebrado</li>
+                        <li>Vierte salsa restante, crema y queso</li>
+                        <li>Hornea a 180°C por 20 minutos</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Pozole Rojo -->
+    <div class="modal fade" id="modalPozole" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Preparación: Pozole Rojo</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <h6 style="color: var(--color-rojo); font-weight: 700;">Ingredientes:</h6>
+                    <ul>
+                        <li>1 kg de maíz cacahuazintle</li>
+                        <li>1.5 kg de carne de cerdo</li>
+                        <li>8 chiles guajillo</li>
+                        <li>4 chiles ancho</li>
+                        <li>Cebolla, ajo, orégano</li>
+                        <li>Sal al gusto</li>
+                    </ul>
+                    <h6 style="color: var(--color-verde); font-weight: 700; margin-top: 15px;">Pasos:</h6>
+                    <ol>
+                        <li>Cuece el maíz con cal hasta que se abra</li>
+                        <li>En otra olla, cuece la carne de cerdo</li>
+                        <li>Hidrata los chiles y licúalos</li>
+                        <li>Cuela la salsa de chiles</li>
+                        <li>Agrega la salsa al caldo de cerdo</li>
+                        <li>Añade el maíz cocido</li>
+                        <li>Condimenta y deja hervir 20 minutos</li>
+                        <li>Sirve con lechuga, rábanos y tostadas</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Ceviche -->
+    <div class="modal fade" id="modalCeviche" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Preparación: Ceviche Mexicano</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <h6 style="color: var(--color-rojo); font-weight: 700;">Ingredientes:</h6>
+                    <ul>
+                        <li>800g de pescado blanco fresco</li>
+                        <li>1 taza de jugo de limón fresco</li>
+                        <li>4 tomates rojos</li>
+                        <li>1 cebolla blanca</li>
+                        <li>2 aguacates</li>
+                        <li>Cilantro fresco, sal y pimienta</li>
+                    </ul>
+                    <h6 style="color: var(--color-verde); font-weight: 700; margin-top: 15px;">Pasos:</h6>
+                    <ol>
+                        <li>Corta el pescado en cubitos pequeños</li>
+                        <li>Marina el pescado en jugo de limón 15-20 minutos</li>
+                        <li>Corta finamente la cebolla, tomate y aguacate</li>
+                        <li>Mezcla el pescado con la cebolla</li>
+                        <li>Agrega tomate, aguacate y cilantro</li>
+                        <li>Condimenta con sal y pimienta</li>
+                        <li>Sirve bien frío como entrada</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Footer -->
     <div class="footer">
         <div class="footer-emoji">🌮 🌯 🫕</div>
